@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="nor-ai-banner.png" alt="NOR-AI Banner" width="600"/>
+</p>
 # nor-ai-assistant
 A privacy-first, voice-powered assistant for the blind — built on Raspberry Pi and offline AI. From the creators of ZOZO. 🌙🕶️
 # 🌟 NOR – A Voice of Light for the Visually Impaired
