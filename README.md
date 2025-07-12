@@ -12,6 +12,29 @@ A privacy-first, voice-powered assistant for the blind — built on Raspberry Pi
 **NOR** (نُور – Arabic for *light*) is an experimental, offline AI assistant designed for people who are blind or visually impaired. Built on Raspberry Pi, NOR brings privacy, empowerment, and smart guidance through voice, without the need for screens or internet access.
 
 ---
+## 🔹 Core Features
+
+NOR-AI is more than a voice assistant — it’s a **real-world walking companion** designed to help visually impaired users navigate safely and independently.
+
+- 🧭 **GPS-Voice Guide**  
+  Navigate from point A to point B with spoken directions and offline mapping.
+
+- 👣 **Street Visualization & Spatial Awareness**  
+  Identify obstacles, receive ambient environment descriptions, and stay centered on paths.
+
+- 📞 **Voice Calling (Upcoming)**  
+  Make and receive phone calls through voice interaction and connected mobile interfaces.
+
+- 🗣️ **Offline Voice Assistant**  
+  Full speech recognition and TTS (Arabic/English), all done offline — no cloud needed.
+
+- 🕌 **Islamic Support**  
+  Quran playback, Adhan times, Duas, and Islamic learning.
+
+- 🧠 **Custom AI Modules Coming Soon**  
+  Expandable with plugins: object detection, indoor guides, and emergency alerts.
+
+
 
 ## 🔹 Features (In Progress)
 
